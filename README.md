@@ -1,9 +1,9 @@
-# flutter_font_awesome
+# flutter_carousel_slider
 
     A carousel slider widget, support infinite scroll and custom child widget, with auto play feature.
 
-## [Demo Video](https://youtu.be/fQNxLqgr8iQ)
-[![Watch the video](https://img.youtube.com/vi/fQNxLqgr8iQ/maxresdefault.jpg)](https://youtu.be/fQNxLqgr8iQ)
+## [Demo Video](https://youtu.be/BxAVd4h-8oY)
+[![Watch the video](https://img.youtube.com/vi/BxAVd4h-8oY/maxresdefault.jpg)](https://youtu.be/BxAVd4h-8oY)
 
 ## Installing
     dependencies:    
@@ -33,7 +33,7 @@ CarouselSlider(
 )
 ```
 ## Example
-[example.dart](https://youtu.be/fQNxLqgr8iQ)
+[example.dart](https://youtu.be/BxAVd4h-8oY)
 
 ### See more
 - [Homepage](https://kingpesdev.firebaseapp.com/)
